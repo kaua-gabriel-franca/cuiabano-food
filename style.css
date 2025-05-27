@@ -229,3 +229,43 @@ header {
     position: relative;
     overflow: hidden;
 }
+
+.dish-heart {
+    position:absolute;
+    background-color: #B84226;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.563rem;
+    color: var(--color-primary-1);
+    width: 70px;
+    height: 70px;
+    right: -10px;
+    top: -10px;
+    border-radius: 0px 37.5px 0px 42.5px;
+}
+
+.dish-image {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.dish-title {
+    color: #B84226;
+}
+
+.dish-description {
+    color: #000000;
+    text-align: center;
+}
+
+.dish-rate i {
+    color: #B84226;
+
+}
+
+.dish-price {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
