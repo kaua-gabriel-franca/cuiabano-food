@@ -32,4 +32,30 @@ $(document).ready(function(){
         $(navItems[activeSectionIndex]).addClass('active');
     });
 
+    /** A animação */
+    ScrollReveal().reveal('#cta', {
+        origin: 'left',
+        duration: 2000,
+        distance: '20%'
+    })
+
+    ScrollReveal().reveal(".dish", {
+      origin: "left",
+      duration: 2000,
+      distance: "20%",
+    });
+
+    ScrollReveal().reveal("#testimonials_dish", {
+      origin: "left",
+      duration: 2000,
+      distance: "20%",
+    });
+
+    ScrollReveal().reveal("#feedbacks", {
+      origin: "right",
+      duration: 2000,
+      distance: "20%",
+    });
+
+
 });
