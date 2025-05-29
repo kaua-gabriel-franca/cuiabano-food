@@ -311,3 +311,24 @@ header {
     border-radius: 100%;
     object-fit: cover;
 }
+
+/* Footer */
+footer {
+    background-color: var(--color-primary-2);
+
+}
+
+footer img {
+    width: 100%;
+}
+
+#footer_items {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 8% 24px 8%;
+}
+
+#copyright {
+    color: var(--color-neutral-1);
+    font-weight: 500;
+}
