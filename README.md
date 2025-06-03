@@ -133,4 +133,4 @@ Para mais detalhes sobre a licença: [clique aqui](.github/LICENSE)
 
 <br>
 
-💡 **Desenvolvido por [Wanderson Timóteo](https://github.com/kaua-gabriel-franca)** </div>
+💡 **Desenvolvido por [Kauã Gabriel](https://github.com/kaua-gabriel-franca)** </div>
